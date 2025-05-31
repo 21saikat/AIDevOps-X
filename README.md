@@ -1,4 +1,4 @@
-# 🚀 AIDevOps-X — AI-Powered DevOps with Azure, Kubernetes, Terraform & OpenAI
+# AIDevOps-X — AI-Powered DevOps with Azure, Kubernetes, Terraform & OpenAI
 
 > “Talk to your infrastructure. Get instant answers. Automate everything.”
 
@@ -154,6 +154,8 @@ This isn’t just DevOps — this is AI-Infused DevOps:
 🧰 Real-world experience with tools used at Microsoft
 
 
+
+Author
 Ibne Sabid Saikat
 Cloud Solution Architect | Microsoft Student Ambassador | AZ-104 Certified
 
